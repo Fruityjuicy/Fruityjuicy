@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fruityjuicy
-- 👀 I’m interested in Developing apps
+- 👀 I’m interested in Developing websites
 - 🌱 I’m currently learning about Open Source Projects
 - 💞️ I’m looking to collaborate on Open Source organisation
 - 📫 How to reach me 
